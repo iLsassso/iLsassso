@@ -5,19 +5,14 @@ I'm Matteo
 Technical High School Graduate in Computer Science *(Perito Informatico)*  
 Currently studying at **Università del Piemonte Orientale** | Objective: Software Developer
 
----
-
 ### About Me
 - **Learning Strategy:** Building technical knowledge through daily hands-on projects.
 - **Problem Solving:** Passionate about solving coding challenges on [Codewars](https://www.codewars.com/).
 - **Core Focus:** C, C++, and Object-Oriented Programming (OOP).
 
----
-
 ### Environment & Tools
 - **Operating Systems:** Windows (Desktop), Linux (Laptop)
 - **IDEs & Editors:** Visual Studio, VS Code, IntelliJ IDEA
-
 
 ### Personal Interests
 - **Outdoors:** Long-distance walking and staying active outside the screen.
